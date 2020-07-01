@@ -1,0 +1,106 @@
+body{    
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.barlow{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.poppins{
+    color: #ED5887;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 1200;
+}
+
+p{
+    color: grey;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+
+}
+.header-part{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background: #ED5887;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    margin-bottom: 200px;
+}
+.latest-work{
+    text-align: center;
+}
+.latest-part{
+    background-image: url("images/latest-work-bg.png");
+}
+.quarter-width{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+.quarter-width img{
+    width: 100%;
+}
+.client{
+    text-align: center;
+}
+.client-name{
+    font-size: 20px;
+    text-align: center;
+}
+.designation{
+    text-align: center;
+    color: grey;
+}
+.comment{
+    text-align: center;
+    color: black;
+}
+.pink-highlight{
+    background:  #ED5887;
+    width: 550px;
+    margin: 0 auto;
+    height: 125px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 70px;
+}
+.pink-highlight h5{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+ 
+}
+.pink-highlight h3{
+    text-align: center;
+    margin-top: -10px;
+    color: white;
+}
+.footer-part{
+    background-image: url(images/footer-bg.png);
+}
+footer{
+    text-align: center;
+}
